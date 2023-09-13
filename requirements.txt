@@ -1,0 +1,6 @@
+streamlit==1.22
+git+https://github.com/streamlit/gsheets-connection
+numpy==1.25.2
+pandas==2.0
+pygwalker==0.2
+plotly==5.16.1
